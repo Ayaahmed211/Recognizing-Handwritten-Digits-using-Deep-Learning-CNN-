@@ -9,7 +9,7 @@ This project demonstrates how to build and use a Convolutional Neural Network (C
 
 ## 🧠 How It Works
 
-### ✅ Training the Model (`digit_model.py`)
+### ✅ Training the Model (`nums.py`)
 - Loads and preprocesses the MNIST dataset (grayscale 28x28 images)
 - Uses a CNN with:
   - Conv2D layers
