@@ -1,4 +1,4 @@
-# Recognizing-Handwritten-Digits-using-Deep-Learning-CNN
+
 # 🧠 Handwritten Digit Recognition using Deep Learning (CNN)
 
 This project demonstrates how to build and use a Convolutional Neural Network (CNN) to recognize handwritten digits (0–9) using the MNIST dataset. It includes a model training script and a prediction script using OpenCV to test your own digit images.
